@@ -1,8 +1,5 @@
-<<<<<<< HEAD
-h1 {
-	font-family: Oswald; 	
-}
-=======
+@import url('https://fonts.googleapis.com/css?family=Oswald|Roboto|Lato');
+
 h1 {
 	font-family: Oswald; 	
 }
@@ -14,11 +11,11 @@ h1 {
 	background: #A9A9A9; /* Цвет фона */
 	padding: 7px; /* Поля вокруг текста */
 	border: 1px solid #333; /* Параметры рамки */
-	font-family: 'Roboto Condensed';
+	font-family: Roboto;
 }
 
 body {
 	background-image: url(img/bg.png); /* Путь к фоновому изображению */
 	background-color: #c7b39b; /* Цвет фона */
 }
->>>>>>> yasher
+
