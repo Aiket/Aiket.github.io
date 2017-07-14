@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 h1 {
 	font-family: Oswald; 	
 }
@@ -15,4 +16,17 @@ h1 {
 body {
 	background-image: url(img/bg.png); /* Путь к фоновому изображению */
 	background-color: #c7b39b; /* Цвет фона */
+=======
+.layer {
+	height:600px; /* Высота блока */
+	width: 1320px; /* Ширина блока */
+	overflow: scroll; /* Добавляем полосы прокрутки */
+	background: #A9A9A9; /* Цвет фона */
+	padding: 7px; /* Поля вокруг текста */
+	border: 1px solid #333; /* Параметры рамки */
+}
+
+body {
+	background-image: url(/img/bg.png);
+>>>>>>> yasher
 }
