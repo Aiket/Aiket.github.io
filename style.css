@@ -1,0 +1,18 @@
+h1 {
+	font-family: Oswald; 	
+}
+
+.layer {
+	height:600px; /* Высота блока */
+	width: 1320px; /* Ширина блока */
+	overflow: scroll; /* Добавляем полосы прокрутки */
+	background: #A9A9A9; /* Цвет фона */
+	padding: 7px; /* Поля вокруг текста */
+	border: 1px solid #333; /* Параметры рамки */
+	font-family: 'Roboto Condensed';
+}
+
+body {
+	background-image: url(img/bg.png); /* Путь к фоновому изображению */
+	background-color: #c7b39b; /* Цвет фона */
+}
